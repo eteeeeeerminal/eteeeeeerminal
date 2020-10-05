@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![eteeeeeerminal's github stats](https://github-readme-stats.vercel.app/api?username=eteeeeeerminal&theme=dark&show_icons=true)
+![eteeeeeerminal's github stats](https://github-readme-stats.vercel.app/api?username=eteeeeeerminal&theme=monokai&show_icons=true)
+
+[![](https://raw.githubusercontent.com/eteeeeeerminal/eteeeeeerminal/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/eteeeeeerminal/eteeeeeerminal/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/eteeeeeerminal/eteeeeeerminal/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
