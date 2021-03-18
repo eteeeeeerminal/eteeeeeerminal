@@ -24,10 +24,23 @@ Here are some ideas to get you started:
   - Rustlang
   - Deep Learning
 - often use
-  - Python, C
+  - Python
 - sometimes use
+  - pytorch, transformers
+  - scraping
+  - C
+  - LaTex
 - have used two or three times
+  - PySide
+  - GatsbyJS
+  - DxLib (2D, DirectX wrapper)
+  - mbed (one board microcomputer)
 - just did "Hello, world"
+  - Ruby
+  - WinAPI32
+  - Firebase (Firestore, Authentication, Hosting)
+  - ReactJS
+  - MIPS on spim (assembly language)
 
 # TechBlogs
 [Qiita](https://qiita.com/eteeeeeerminal)
