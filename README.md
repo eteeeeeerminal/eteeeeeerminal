@@ -1,25 +1,22 @@
-<!--
-**eteeeeeerminal/eteeeeeerminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me: eteeeeeerminal / Tamayura Souki
+情報系研究科で勉強・研究しながら，情報系 VTuber をやっているしがない学生です。
 
-Here are some ideas to get you started:
+ネットの姿: @eteeeeeerminal ([Twitter](https://twitter.com/eteeeeeerminal), [GitHub](https://github.com/eteeeeeerminal)) \
+VTuber の姿: @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [GitHub](https://github.com/tamayura-souki)) \
+リアルの姿: 田中久温 / Tanaka Kuon ([所属研究室](http://www.sakamoto-lab.hc.uec.ac.jp/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![eteeeeeerminal's github stats](https://github-readme-stats.vercel.app/api?username=eteeeeeerminal&theme=monokai&show_icons=true)
 
-[![](https://raw.githubusercontent.com/eteeeeeerminal/eteeeeeerminal/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## history
+高校入学と同時にプログラミングをはじめる。科学部の活動で[缶サット甲子園2017](http://www.space-koshien.com/cansat/2017/top.html)にてマイコンによるデータ取得とその可視化のプログラムを担当、準優勝する。その後、大学に入学し、情報工学・機械学習を学ぶ。並行して、[情報系VTuber](https://www.youtube.com/@tamayurasouki)として活動をはじめ勉強のアウトプットを行う。VTuber活動のコンセプトとして、Studying Just for Fun を掲げ、[KusoKoudoKaigi(クソコード大喜利大会)](https://www.ai-gakkai.or.jp/jsai2023/)を数回主催した。VTuberの検索・推薦システムの必要性を感じ、VTuberの印象推定について研究を行っている。卒論での内容について、[JSAI2023](https://www.ai-gakkai.or.jp/jsai2023/)にて発表。
 
-情報系学部で勉強しながら、[情報系Vtuber](https://www.youtube.com/channel/UCRQ6fe53K3Qh-6FzPaGMUXw)やってます。
-- [配信で使ったり作ったりしたコードはこっち](https://github.com/tamayura-souki)
+## intro
+// TODO: 後で書く
 
-# Skills
+## career
+// TODO: 後で書く
+
+## Skills
+// TODO: 後で書く、outputsのとこ見てもらった方が早いかもね
 - Studying now
   - Statistics
   - Rust
@@ -29,6 +26,25 @@ Here are some ideas to get you started:
 - sub
   - GatsbyJS
 
-# TechBlogs
-[Qiita](https://qiita.com/eteeeeeerminal)
-[Zenn](https://zenn.dev/etrnl_tamayura)
+# Outputs
+## Programming
+// TODO: まず箇条書きで列挙する
+
+## Tech Blogs
+- [Qiita](https://qiita.com/eteeeeeerminal)
+- [Zenn](https://zenn.dev/etrnl_tamayura)
+
+## Others
+// TODO: 後で書く
+### YouTube
+### VTuber models
+### 動画編集の手伝ったやつ
+### Blog
+### Novels
+
+# Other Information
+## GitHub Activities
+![](https://raw.githubusercontent.com/eteeeeeerminal/eteeeeeerminal/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)![](https://raw.githubusercontent.com/eteeeeeerminal/eteeeeeerminal/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)![](https://raw.githubusercontent.com/eteeeeeerminal/eteeeeeerminal/main/profile-summary-card-output/nord_dark/3-stats.svg)
+
+## donation
+// TODO: 干しいも　booth のせるか?
