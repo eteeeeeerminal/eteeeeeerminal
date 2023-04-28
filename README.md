@@ -7,7 +7,7 @@ VTuber の姿: @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [Gi
 
 
 ## history
-高校入学と同時にプログラミングをはじめる。科学部の活動で[缶サット甲子園2017](http://www.space-koshien.com/cansat/2017/top.html)にてマイコンによるデータ取得とその可視化のプログラムを担当、準優勝する。その後、大学に入学し、情報工学・機械学習を学ぶ。並行して、[情報系VTuber](https://www.youtube.com/@tamayurasouki)として活動をはじめ勉強のアウトプットを行う。VTuber活動のコンセプトとして、Studying Just for Fun を掲げ、[KusoKoudoKaigi(クソコード大喜利大会)](https://www.ai-gakkai.or.jp/jsai2023/)を数回主催した。VTuberの検索・推薦システムの必要性を感じ、VTuberの印象推定について研究を行っている。卒論での内容について、[JSAI2023](https://www.ai-gakkai.or.jp/jsai2023/)にて発表。
+高校入学と同時にプログラミングをはじめる。科学部の活動で[缶サット甲子園2017](http://www.space-koshien.com/cansat/2017/top.html)にてマイコンによるデータ取得とその可視化のプログラムを担当、準優勝する。その後、大学に入学し、情報工学・機械学習を学ぶ。並行して、[情報系VTuber](https://www.youtube.com/@tamayurasouki)として活動をはじめ勉強のアウトプットを行う。VTuber活動のコンセプトとして、Studying Just for Fun を掲げ、[KusoKoudoKaigi(クソコード大喜利大会)](https://www.ai-gakkai.or.jp/jsai2023/)を数回主催した。さまざまなVTuberを見て、さらに自分もVTuberとして活動する中で、VTuberの検索・推薦システムの必要性を感じ、VTuberの印象推定について研究をはじめる。卒論時点での研究内容について、[JSAI2023](https://www.ai-gakkai.or.jp/jsai2023/)にて発表。
 
 ## intro
 // TODO: 後で書く
