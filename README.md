@@ -80,8 +80,10 @@ VTuber の姿: @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [Gi
 ### Novels
 
 # Other Information
+## donation
+[![干しいも](https://img.shields.io/badge/-Amazon_欲しい物リスト-000?color=EAEDED&labelColor=232F3E&logo=amazon)](https://www.amazon.jp/hz/wishlist/ls/19OZ4W4MEH1P3) \
+[![booth](https://img.shields.io/badge/-BOOTH_グッズ販売-000?color=EAEDED)](https://tamayura-souki.booth.pm/)
+
 ## GitHub Activities
 ![](https://raw.githubusercontent.com/eteeeeeerminal/eteeeeeerminal/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)![](https://raw.githubusercontent.com/eteeeeeerminal/eteeeeeerminal/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)![](https://raw.githubusercontent.com/eteeeeeerminal/eteeeeeerminal/main/profile-summary-card-output/nord_dark/3-stats.svg)
 
-## donation
-// TODO: 干しいも　booth のせるか?
