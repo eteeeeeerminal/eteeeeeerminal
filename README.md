@@ -67,8 +67,9 @@ VTuber の姿: @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [Gi
 // TODO: まず箇条書きで列挙する
 
 ## Tech Blogs
-- [Qiita](https://qiita.com/eteeeeeerminal)
-- [Zenn](https://zenn.dev/etrnl_tamayura)
+- [![Qiita](https://img.shields.io/badge/-Qiita-000?logo=qiita)](https://qiita.com/eteeeeeerminal): 2019/12/25 ~ 2020/02/29
+- [![Zenn](https://img.shields.io/badge/-Zenn-000?logo=zenn)](https://zenn.dev/etrnl_tamayura): 2020/10/03 ~ Now ✨
+
 
 ## Others
 // TODO: 後で書く
