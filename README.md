@@ -1,5 +1,5 @@
 # About me: eteeeeeerminal / Tamayura Souki
-情報系研究科で勉強・研究しながら，情報系 VTuber をやっているしがない学生です。
+情報系研究科で勉強・研究しながら、情報系 VTuber をやっているしがない学生です。
 
 ネットの姿: @eteeeeeerminal ([Twitter](https://twitter.com/eteeeeeerminal), [GitHub](https://github.com/eteeeeeerminal)) \
 VTuber の姿: @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [GitHub](https://github.com/tamayura-souki)) \
