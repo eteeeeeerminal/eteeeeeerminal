@@ -67,8 +67,30 @@ VTuber の姿: @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [Gi
 
 
 # Outputs
-## Programming
-// TODO: まず箇条書きで列挙する
+## Projects
+// TODO: 以下のプロジェクトのフレームワークのリンク等のせる?
+
+### VTuber 推薦のためのオノマトペを使った VTuber の印象推定
+JSAI2023 で発表予定
+- VTuber データを収集
+  - YouTube データの収集: YouTube Data API, yt-dlp
+  - VTuber まとめサイトのスクレイピング: Selenium
+- VTuber データに対するアノテーション
+  - アノテーションソフトの自作: Svelte, Svelte-kit
+- VTuber の動画から印象を推定する Deep Learning モデルの構築
+  - PyTorch, PyTorch Lightning, hydra, poetry
+
+### 研究室のホームページマイグレーション
+[所属研究室のホームページ](http://www.sakamoto-lab.hc.uec.ac.jp/)を Next.js の SSG (Static Site Generator) 機能で書き直し中
+一部作業は YouTube Live 上で[公開](https://www.youtube.com/live/TsWpjSHoLjs?feature=share)
+
+### [ヤジが飛んでくるマインクラフト](https://qiita.com/eteeeeeerminal/items/428f0618c775da816519)
+- マインクラフトの Mob に関するテキストを収集
+  - データの大部分はニコニコ動画のコメントデータセット
+- Bert で文章ベクトル計算
+  - huggingface Transformers
+- マインクラフト Mod で、プレイヤーの付近にいる Mob に関するテキストを表示
+  - Java (Mod) と Python (PyTorch) 間でソケット通信
 
 ## Tech Blogs
 - [![Qiita](https://img.shields.io/badge/-Qiita-000?logo=qiita)](https://qiita.com/eteeeeeerminal): 2019/12/25 ~ 2020/02/29
