@@ -9,15 +9,10 @@ VTuber の姿: @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [Gi
 ## history
 高校入学と同時にプログラミングをはじめる。科学部の活動で[缶サット甲子園2017](http://www.space-koshien.com/cansat/2017/top.html)にてマイコンによるデータ取得とその可視化のプログラムを担当、準優勝する。その後、大学に入学し、情報工学・機械学習を学ぶ。並行して、[情報系VTuber](https://www.youtube.com/@tamayurasouki)として活動をはじめ勉強のアウトプットを行う。VTuber活動のコンセプトとして、Studying Just for Fun を掲げ、[KusoKoudoKaigi(クソコード大喜利大会)](https://www.ai-gakkai.or.jp/jsai2023/)を数回主催した。さまざまなVTuberを見て、さらに自分もVTuberとして活動する中で、VTuberの検索・推薦システムの必要性を感じ、VTuberの印象推定について研究をはじめる。卒論時点での研究内容について、[JSAI2023](https://www.ai-gakkai.or.jp/jsai2023/)にて発表。
 
-<!--
-## intro
-// TODO: 後で書く
-// わりと history の内容とかぶっているので、自己分析がある程度出来て言語化できたら書くか
 
 ## career
-// TODO: 後で書く
-// 学歴くらいしか書くことがないので、ここも多少書くことができてからでいいな
--->
+- 2023年 8～9月 アポロ株式会社 インターン POSデータ分析 [ブログ](https://note.com/apollo132/n/n454174877818)
+
 
 ## Skills
 体系的に習得するよりも、その時やりたい事に合わせて都度都度勉強しているので、詳細は[Outputs](#outputs)を見てください。
