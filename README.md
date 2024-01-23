@@ -62,11 +62,7 @@ VTuber の姿: @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [Gi
 
 
 # Outputs
-## Projects
-// TODO: 以下のプロジェクトのフレームワークのリンク等のせる?
-
-### VTuber 推薦のためのオノマトペを使った VTuber の印象推定
-JSAI2023 で発表予定
+### [VTuber 推薦のためのオノマトペを使った VTuber の印象推定](https://doi.org/10.11517/pjsai.JSAI2023.0_4T2GS1002)
 - VTuber データを収集
   - YouTube データの収集: YouTube Data API, yt-dlp
   - VTuber まとめサイトのスクレイピング: Selenium
@@ -92,15 +88,6 @@ JSAI2023 で発表予定
 - [![Zenn](https://img.shields.io/badge/-Zenn-000?logo=zenn)](https://zenn.dev/etrnl_tamayura): 2020/10/03 ~ Now ✨
 
 
-## Others
-// TODO: 後で書く
-### YouTube
-### VTuber models
-### 動画編集の手伝ったやつ
-### Blog
-### Novels
-
-# Other Information
 ## donation
 [![干しいも](https://img.shields.io/badge/-Amazon_欲しい物リスト-000?color=EAEDED&labelColor=232F3E&logo=amazon)](https://www.amazon.jp/hz/wishlist/ls/19OZ4W4MEH1P3) \
 [![booth](https://img.shields.io/badge/-BOOTH_グッズ販売-000?color=EAEDED)](https://tamayura-souki.booth.pm/)
