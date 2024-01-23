@@ -88,6 +88,7 @@ VTuber の姿: @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [Gi
 - [![Zenn](https://img.shields.io/badge/-Zenn-000?logo=zenn)](https://zenn.dev/etrnl_tamayura): 2020/10/03 ~ Now ✨
 
 
+# Others
 ## donation
 [![干しいも](https://img.shields.io/badge/-Amazon_欲しい物リスト-000?color=EAEDED&labelColor=232F3E&logo=amazon)](https://www.amazon.jp/hz/wishlist/ls/19OZ4W4MEH1P3) \
 [![booth](https://img.shields.io/badge/-BOOTH_グッズ販売-000?color=EAEDED)](https://tamayura-souki.booth.pm/)
