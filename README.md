@@ -89,6 +89,11 @@ VTuber の姿: @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [Gi
 
 
 # Others
+## activity
+- [バーチャル学会](https://vconf.org/portal/) のお手伝い
+- [Willadge](https://willadge.wiki/index.php/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8) - VTuber のためのノウハウ情報共有プラットフォーム：コアメンバー
+- [同人サークル Visterminal](https://visterminal.net/)：コミケで小説同人誌の頒布
+
 ## donation
 [![干しいも](https://img.shields.io/badge/-Amazon_欲しい物リスト-000?color=EAEDED&labelColor=232F3E&logo=amazon)](https://www.amazon.jp/hz/wishlist/ls/19OZ4W4MEH1P3) \
 [![booth](https://img.shields.io/badge/-BOOTH_グッズ販売-000?color=EAEDED)](https://tamayura-souki.booth.pm/)
