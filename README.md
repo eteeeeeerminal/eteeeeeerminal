@@ -71,18 +71,18 @@ VTuber の姿: 珠響そうき @tamayurasouki ([Twitter](https://twitter.com/tam
 
 
 ## Outputs
-### Tech Blogs
+### 🌐 Tech Blogs
 - [![Qiita](https://img.shields.io/badge/-Qiita-000?logo=qiita)](https://qiita.com/eteeeeeerminal): 2019/12/25 ~ 2020/02/29
 - [![Zenn](https://img.shields.io/badge/-Zenn-000?logo=zenn)](https://zenn.dev/etrnl_tamayura): 2020/10/03 ~ Now ✨
 
-### 大規模言語モデルを活用したVTuberの雑談配信における自己開示の抽出とその分析(修論内容, JSAI2025で発表)
+### 📄 大規模言語モデルを活用したVTuberの雑談配信における自己開示の抽出とその分析(修論内容, JSAI2025で発表)
 近年VTuber（バーチャルYouTuber）の人気は増しており，VTuberの人数は2万人を超えた．多くのVTuberがいる一方で，好みのVTuberを探す方法は少なく，新たに見つけたVTube の魅力を理解するには時間がかかる．本研究では，VTuberの魅力を短時間で知るために，雑談配信からの自己開示の抽出を行った．まず，抽出対象として，ランダムなVTuber96名から各2本ずつ雑談配信を収集した．次に，既存研究とLLMによる質的分析により，「体験の振り返り」や「現在の目標」などを含む31の自己開示項目を作成した．そして，GPT4o-miniを用いて，雑談配信の文字起こしが自己開示項目に該当するか分類を行った．分類結果の一部について，人間によるアノテーションと比較・検証した．その結果，VTuberの雑談配信の80%以上が自己開示であった．また，自己開示の中で，目標やVTuber活動などの内容は精度よく抽出できたが，興味や性格などの内容は精度が低くなった．本研究を通じて，LLMによる質的分析の有用性やLLMの出力する予測確率が予測精度の指標として使用できることも示唆された．
 
 [JSAI2025でのスライド資料](https://drive.google.com/drive/folders/1WOgQJ0Gwar5S4T0LSFXrdDTG5zFQwNGe?usp=drive_link)
 
 [修論PDF](https://uec.repo.nii.ac.jp/records/2000568)
 
-### [VTuber 推薦のためのオノマトペを使った VTuber の印象推定](https://doi.org/10.11517/pjsai.JSAI2023.0_4T2GS1002)(卒論内容, JSAI2023で発表)
+### 📄 [VTuber 推薦のためのオノマトペを使った VTuber の印象推定](https://doi.org/10.11517/pjsai.JSAI2023.0_4T2GS1002)(卒論内容, JSAI2023で発表)
 - VTuber データを収集
   - YouTube データの収集: YouTube Data API, yt-dlp
   - VTuber まとめサイトのスクレイピング: Selenium
@@ -91,16 +91,16 @@ VTuber の姿: 珠響そうき @tamayurasouki ([Twitter](https://twitter.com/tam
 - VTuber の動画から印象を推定する Deep Learning モデルの構築
   - PyTorch, PyTorch Lightning, hydra, poetry
 
-### 研究室のホームページマイグレーション
+### 💻 研究室のホームページマイグレーション
 [所属研究室のホームページ](http://www.sakamoto-lab.hc.uec.ac.jp/)を Next.js の SSG (Static Site Generator) 機能で書き直し中
 一部作業は YouTube Live 上で[公開](https://www.youtube.com/live/TsWpjSHoLjs?feature=share)
 
-### [KusoKoudoKaigi](https://www.youtube.com/playlist?list=PLa0uhE20akZBaO38mz1ZeSHNPAFXlu9vy)
+### 🎉 [KusoKoudoKaigi](https://www.youtube.com/playlist?list=PLa0uhE20akZBaO38mz1ZeSHNPAFXlu9vy)
 競わないし作らない第三のプログラミング
 楽しんでプログラミングを学ぶクソコード大喜利大会
 [コンセプトページ](https://github.com/KusoKoudoKaigi/KusoKoudoKaigi)
 
-### [ヤジが飛んでくるマインクラフト](https://qiita.com/eteeeeeerminal/items/428f0618c775da816519)
+### 💻 [ヤジが飛んでくるマインクラフト](https://qiita.com/eteeeeeerminal/items/428f0618c775da816519)
 - マインクラフトの Mob に関するテキストを収集
   - データの大部分はニコニコ動画のコメントデータセット
 - Bert で文章ベクトル計算
