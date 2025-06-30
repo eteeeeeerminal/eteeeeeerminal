@@ -5,7 +5,7 @@ VTuber やったり同人サークルやったりデータをこねたりして�
 VTuber の姿: 珠響そうき @tamayurasouki ([Twitter](https://twitter.com/tamayurasouki), [GitHub](https://github.com/tamayura-souki)) \
 リアルの姿: 田中久温 / Tanaka Kuon ([所属](https://dmm-corp.com/))
 
-## Mission
+## My Purpose
 > 創作も享受も──あまねく表現・体験・知識への道づくりに貢献する
 
 ## Career
