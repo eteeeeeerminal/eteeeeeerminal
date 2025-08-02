@@ -82,6 +82,8 @@ VTuber の姿: 珠響そうき @tamayurasouki ([Twitter](https://twitter.com/tam
 
 [修論PDF](https://uec.repo.nii.ac.jp/records/2000568)
 
+[J-STAGEの予稿資料](https://doi.org/10.11517/pjsai.JSAI2025.0_1E5OS3b05)
+
 ### 📄 [VTuber 推薦のためのオノマトペを使った VTuber の印象推定](https://doi.org/10.11517/pjsai.JSAI2023.0_4T2GS1002)(卒論内容, JSAI2023で発表)
 - VTuber データを収集
   - YouTube データの収集: YouTube Data API, yt-dlp
