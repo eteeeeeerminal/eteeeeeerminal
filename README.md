@@ -16,8 +16,8 @@ VTuber の姿: 珠響そうき @tamayurasouki ([Twitter](https://twitter.com/tam
 
 ## Activity
 - [珠響そうき](https://www.youtube.com/@tamayurasouki)：VTuberとしてゲーム・雑談・技術系配信。[ぶいぎーく！](https://vgeekpro.com/)所属
-- [バーチャル学会](https://vconf.org/portal/)：お手伝い
 - [Willadge](https://willadge.wiki/index.php/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)：VTuber のためのノウハウ情報共有プラットフォーム開発中。コアメンバー
+- [バーチャル学会](https://vconf.org/portal/)：お手伝い
 - [同人サークル Visterminal](https://visterminal.net/)：私の1人サークル。コミケで小説同人誌の頒布
 
 ## Skills
@@ -31,6 +31,7 @@ VTuber の姿: 珠響そうき @tamayurasouki ([Twitter](https://twitter.com/tam
 ![Web scraping](https://img.shields.io/badge/-Web_scraping-000)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch)](https://pytorch.org/)
 [![PyTorchLightning](https://img.shields.io/badge/-PyTorch_Lightning-000?logo=pytorchlightning)](https://www.pytorchlightning.ai/index.html)
+[![PyTorch](https://img.shields.io/badge/-Tensorflow-000?logo=tensorflow)](https://www.tensorflow.org/?hl=ja)
 
 [![Gatsby](https://img.shields.io/badge/-Gatsby-000?logo=gatsby)](https://www.gatsbyjs.com/)
 [![React](https://img.shields.io/badge/-React-000?logo=react)](https://react.dev/)
