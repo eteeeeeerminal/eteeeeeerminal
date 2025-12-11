@@ -75,6 +75,8 @@ VTuber の姿: 珠響そうき @tamayurasouki ([Twitter](https://twitter.com/tam
 ### 🌐 Tech Blogs
 - [![Qiita](https://img.shields.io/badge/-Qiita-000?logo=qiita)](https://qiita.com/eteeeeeerminal): 2019/12/25 ~ 2020/02/29
 - [![Zenn](https://img.shields.io/badge/-Zenn-000?logo=zenn)](https://zenn.dev/etrnl_tamayura): 2020/10/03 ~ Now ✨
+- DMM Tech Blog
+  - 埋め込みベクトルに対する正規化がアイテムの推薦頻度に与える影響を調べてみた https://developersblog.dmm.com/entry/2025/12/11/113000
 
 ### 📄 大規模言語モデルを活用したVTuberの雑談配信における自己開示の抽出とその分析(修論内容, JSAI2025で発表)
 近年VTuber（バーチャルYouTuber）の人気は増しており，VTuberの人数は2万人を超えた．多くのVTuberがいる一方で，好みのVTuberを探す方法は少なく，新たに見つけたVTube の魅力を理解するには時間がかかる．本研究では，VTuberの魅力を短時間で知るために，雑談配信からの自己開示の抽出を行った．まず，抽出対象として，ランダムなVTuber96名から各2本ずつ雑談配信を収集した．次に，既存研究とLLMによる質的分析により，「体験の振り返り」や「現在の目標」などを含む31の自己開示項目を作成した．そして，GPT4o-miniを用いて，雑談配信の文字起こしが自己開示項目に該当するか分類を行った．分類結果の一部について，人間によるアノテーションと比較・検証した．その結果，VTuberの雑談配信の80%以上が自己開示であった．また，自己開示の中で，目標やVTuber活動などの内容は精度よく抽出できたが，興味や性格などの内容は精度が低くなった．本研究を通じて，LLMによる質的分析の有用性やLLMの出力する予測確率が予測精度の指標として使用できることも示唆された．
